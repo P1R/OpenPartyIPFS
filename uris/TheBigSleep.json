@@ -1,0 +1,20 @@
+{
+  "name": "The Big Sleep",
+  "description": "The Missionary Position plays an intoxicating blend of dark, dirty blues-rock",
+  "animation_url": "http://ipfs.io/ipfs/",
+  "image": "http://ipfs.io/ipfs/",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "The Missionary Position"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Live @ KEXP 9/25/2010 "
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://freemusicarchive.org/music/The_Missionary_Position"
+    }
+  ]
+}

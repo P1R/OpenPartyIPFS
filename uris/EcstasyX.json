@@ -1,0 +1,20 @@
+{
+  "name": "Ecstasy X",
+  "description": "Jason Shaw's music is a great resource for anyone interested in using CC licensed music in their next project.",
+  "animation_url": "http://ipfs.io/ipfs/bafybeidgo2dnjnlujn5akip73zn6eztxv7i6vezkmeeyceua2wjdig3li4",
+  "image": "http://ipfs.io/ipfs/bafkreicgaebuq3ddeknbmz7lqn5gqytykhp3k4rkvi4eksfwn3p7xunb3e",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Jason Shaw"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Audionautix: Tech, Urban, Dance"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://freemusicarchive.org/music/Jason_Shaw/"
+    }
+  ]
+}

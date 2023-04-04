@@ -1,0 +1,20 @@
+{
+  "name": "Best I Can",
+  "description": "Best I Can (Feat. Habit Blcx) ",
+  "animation_url": "http://ipfs.io/ipfs/",
+  "image": "http://ipfs.io/ipfs/",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Jasmine Jordan"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Time Travel EP"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://freemusicarchive.org/music/Jasmine_Jordan/"
+    }
+  ]
+}

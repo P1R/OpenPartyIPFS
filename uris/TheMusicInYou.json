@@ -1,0 +1,20 @@
+{
+  "name": "The Music In You",
+  "description": "Sweet electronic music mixed with the japanese soul.",
+  "animation_url": "http://ipfs.io/ipfs/",
+  "image": "http://ipfs.io/ipfs/",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "The Kyoto Connection"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Wake Up"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://freemusicarchive.org/music/The_Kyoto_Connection"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bulbo Condado",
+  "description": "Bulbo condado is a Mexican hard rock band established in Mexico city",
+  "animation_url": "http://ipfs.io/ipfs/bafybeibhlox3w5yeyjqdcke6nkalony2wgg6ggom33wqq6qavisnc2kqc4",
+  "image": "http://ipfs.io/ipfs/bafkreih5dzq4kudgm4epf3nypp6o6mguyiqho2qvgewkitc622ba5sdoni",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Bulbo Condado"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Fosa Comun"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://www.reverbnation.com/bulbocondado"
+    }
+  ]
+}

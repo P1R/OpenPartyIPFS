@@ -1,0 +1,20 @@
+{
+  "name": "Acid Jazz",
+  "description": "Great Jazz selections from Kevin MacLeod's royalty-free Creative Commons licensed",
+  "animation_url": "http://ipfs.io/ipfs/",
+  "image": "http://ipfs.io/ipfs/",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Kevin MacLeod"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Jazz Sampler"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://freemusicarchive.org/music/Kevin_MacLeod"
+    }
+  ]
+}

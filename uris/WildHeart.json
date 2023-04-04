@@ -1,0 +1,20 @@
+{
+  "name": "Wild Heart",
+  "description": "All lyrics written by Bryan Mathys. All music written by Bryan Mathys and Darryl Kniffen.",
+  "animation_url": "http://ipfs.io/ipfs/",
+  "image": "http://ipfs.io/ipfs/",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Bryan Mathys"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Wild Heart"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://freemusicarchive.org/music/Bryan_Mathys"
+    }
+  ]
+}

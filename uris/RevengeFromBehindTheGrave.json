@@ -1,0 +1,20 @@
+{
+  "name": "Revenge from Behind the Grave",
+  "description": "A series of short, spooky songs spanning a lot of different styles and influences",
+  "animation_url": "http://ipfs.io/ipfs/",
+  "image": "http://ipfs.io/ipfs/",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Gigakoops"
+    },
+    {
+      "trait_type": "Album",
+      "value": "Blood Tastes Better Than Water"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://freemusicarchive.org/music/gigakoops/"
+    }
+  ]
+}
