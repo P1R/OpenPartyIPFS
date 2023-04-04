@@ -4,7 +4,7 @@ IPFS prehashed assets for minting NFT Songs
 > For testing purposes
 
 | json file                     |                          CID                                |
-----------------------------------------------------------------------------------------------|
+--------------------------------|-------------------------------------------------------------|
 |AcidJazz.json                  |                                                             |
 |BestICan.json                  |                                                             |
 |BulboCondado.json              |                                                             |
